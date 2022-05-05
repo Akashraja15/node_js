@@ -1,0 +1,23 @@
+{
+  "name": "second-project",
+  "version": "1.0.0",
+  "description": "Second Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo specified not test command",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashraja15/node_js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Akash Raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashraja15/node_js/issues"
+  },
+  "homepage": "https://github.com/Akashraja15/node_js#readme"
+}

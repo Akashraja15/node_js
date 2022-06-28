@@ -1,0 +1,23 @@
+{
+  "name": "login-system",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "router.js",
+  "scripts": {
+    "test": "no",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "akash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.16",
+    "uuid": "^8.3.2"
+  }
+}
